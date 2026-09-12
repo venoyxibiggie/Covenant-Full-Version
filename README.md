@@ -238,3 +238,6 @@ This repository serves as the official landing page for Covenant for Kodi. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Covenant for Kodi today!**
+
+---
+**Last updated:** 2026-09-12 12:43:04 UTC
