@@ -240,4 +240,4 @@ This repository serves as the official landing page for Covenant for Kodi. The s
 **Get the most recent version of Covenant for Kodi today!**
 
 ---
-**Last updated:** 2026-09-13 20:40:29 UTC
+**Last updated:** 2026-09-13 22:58:06 UTC
